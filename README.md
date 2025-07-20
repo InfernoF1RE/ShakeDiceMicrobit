@@ -1,24 +1,38 @@
+# ShakeDice Microbit 🎲
 
-> Open this page at [https://infernof1re.github.io/shakedicemicrobit/](https://infernof1re.github.io/shakedicemicrobit/)
+This program simulates a dice on the micro:bit screen.  
+You "roll" the dice by **shaking the micro:bit**, and it randomly displays a number from 1 to 6 using the LED matrix.
 
-## Use as Extension
+---
 
-This repository can be added as an **extension** in MakeCode.
+## 🌐 Try It Online
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/infernof1re/shakedicemicrobit** and import
+Open this page in your browser:  
+🔗 [https://infernof1re.github.io/shakedicemicrobit/](https://infernof1re.github.io/shakedicemicrobit/)
 
-## Edit this project
+---
 
-To edit this repository in MakeCode.
+## 🧩 Use as Extension in MakeCode
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/infernof1re/shakedicemicrobit** and click import
+You can add this repository as a MakeCode extension:
 
-#### Metadata (used for search, rendering)
+1. Go to [https://makecode.microbit.org/](https://makecode.microbit.org/)
+2. Click **"New Project"**
+3. Click the gearwheel ⚙️ → **"Extensions"**
+4. Paste this URL in the search box:  
+   `https://github.com/infernof1re/shakedicemicrobit`
+5. Press **Enter** and import it
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+---
+
+## 🛠 Edit This Project in MakeCode
+
+To open and modify this project:
+
+1. Go to [https://makecode.microbit.org/](https://makecode.microbit.org/)
+2. Click **"Import"** → **"Import URL"**
+3. Paste the following:  
+   `https://github.com/infernof1re/shakedicemicrobit`
+4. Click **"Go"** to load the project in MakeCode
+
+---
